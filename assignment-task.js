@@ -74,7 +74,7 @@ function isBestFriend(getFriend1, getFriend2) {
     }
 }
 const friend1 = { name: 'Tom', friend: 'Rock' }
-const friend2 = { name: 'Rock', friend: 'Tom' }
+const friend2 = { name: 'Rock', friend: 'jhon' }
 const bestFriend = isBestFriend(friend1, friend2);
 // console.log(bestFriend);
 
